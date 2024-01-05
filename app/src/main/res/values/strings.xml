@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Puzzle_15</string>
+    <string name="winner">Winner</string>
+    <string name="score_0">Score: 0</string>
+    <string name="play">Continue</string>
+    <string name="record">Records</string>
+    <string name="info">Puzzle_15 dasturi boshqotirmalar toifasiga kiruvchi dastur.
+        Unda 4 ta satr va 4 ta ustundan iborat jami 16 ta kvadrat katakcha mavjud. 15 ta katak [1,15]
+        oraliqdagi sonlar bilan raqamlangan. Bitta katak bo‘sh. Shu bo‘sh katakdan foydalanib kvadrat kataklardagi
+        sonlar bo‘yicha ularni tartiblash kerak. Shunda boshqotirma yechilgan hisoblanadi.
+        \n\n\n
+        Muallif: Rasuljonov Nurali
+    </string>
+    <string name="best_moves">Best Moves:</string>
+    <string name="null_string">""</string>
+    <string name="puzzle_4x4">Puzzle 4X4</string>
+    <string name="pause">Pause</string>
+    <string name="new_game">New Game</string>
+</resources>
